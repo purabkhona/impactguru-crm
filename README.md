@@ -112,3 +112,16 @@ Can view Orders
 Cannot delete Customers
 Cannot delete Orders
 Cannot access sensitive admin APIs
+
+
+**Technical Requirements**
+Component Requirement:
+Laravel - 10.x or latest
+PHP >= 8.1
+Database - MySQL
+Frontend - Blade / Bootstrap / Tailwind
+Authentication - Laravel Breeze or Laravel UI
+Authorization - Role-Based Middleware
+Notifications - Laravel Notifications / Mail
+API Security - Laravel Sanctum
+Version Control - Git + GitHub
