@@ -112,5 +112,3 @@ Can view Orders
 Cannot delete Customers
 Cannot delete Orders
 Cannot access sensitive admin APIs
-
-<img width="1916" height="1066" alt="Screenshot 2025-12-10 182331" src="https://github.com/user-attachments/assets/4c32cdda-700a-45f6-b73a-cf72a94a21e4" />
