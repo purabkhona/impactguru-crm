@@ -65,3 +65,52 @@ Body -> raw-> (JSON):
   "email": "admin@example.com",
   "password": "password"
 }
+
+
+**Feature List:-**
+User Authentication (Login & Logout)
+Role-Based Access Control (Admin & Staff)
+Customer Management (CRUD)
+Add Customer
+View Customers
+Edit Customer
+Delete Customer
+Order Management (CRUD)
+Create Orders
+View Orders
+Update Orders
+Delete Orders
+API Authentication using Laravel Sanctum (Token Based)
+Customer API Endpoints (Protected)
+Order API Endpoints (Protected)
+CSV Export for Customers & Orders
+PDF Export for Customers & Orders
+Form Request Validation for Clean Input Handling
+Proper Error Handling with Validation Messages
+Custom 404 & 500 Error Pages
+Application Error Logging (storage/logs/laravel.log)
+Secure Database Sessions
+Responsive UI using Tailwind CSS
+RESTful API Architecture
+Postman API Testing Support
+
+**Role Permissions Summary:-**
+
+Admin Role:
+Can access Dashboard
+Can add, view, edit, and delete Customers
+Can add, view, edit, and delete Orders
+Can export Customers & Orders (PDF & CSV)
+Can access all protected API routes
+Can update and delete customer data via API
+Full system control
+
+Staff Role:
+Can view Customers
+Can add new Customers
+Can view Orders
+Cannot delete Customers
+Cannot delete Orders
+Cannot access sensitive admin APIs
+
+<img width="1916" height="1066" alt="Screenshot 2025-12-10 182331" src="https://github.com/user-attachments/assets/4c32cdda-700a-45f6-b73a-cf72a94a21e4" />
